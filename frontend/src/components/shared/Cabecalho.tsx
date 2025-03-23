@@ -14,7 +14,7 @@ export default function Cabecalho() {
                     <Menu/>
                 </div>
                 <div className="hidden sm:flex items-center ">
-                    <Link href="" target="_blank" className="bg-red-500 rounded-full px-7 py-1 text-sm font-bold">Perfil</Link>
+                    <Link href="https://www.linkedin.com/in/kathryn-oliveira-988533123/" target="_blank" className="bg-red-500 rounded-full px-7 py-1 text-sm font-bold">Perfil</Link>
                 </div>
             </Container>
         </header>
