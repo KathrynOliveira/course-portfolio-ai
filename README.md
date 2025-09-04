@@ -39,13 +39,13 @@ Além de apresentar os projetos do desenvolvedor, a aplicação incorpora agente
 1. Clone este repositório:
 
     ```sh
-    git clone https://github.com/KathrynOliveira/course-portfolio-react-nestJs-ai.git
+    git clone https://github.com/KathrynOliveira/course-portfolio-ai.git
     ```
 
 2. Acesse o diretório do projeto:
 
     ```sh
-    cd course-portfolio-react-nestJs-ai
+    cd course-portfolio-ai
     ```
 
 3. Acesse sua conta no [Supabase](https://supabase.com) ou crie uma nova conta.
